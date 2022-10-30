@@ -13,4 +13,4 @@ Once you have collected enough data, you will begin analyzing the data and ident
 
 Each step of the data analysis process is shown in different branches of this repository.
 
-An overview of the selected data is given in this branch.
+An overview of the selected data is given in the first branch.
