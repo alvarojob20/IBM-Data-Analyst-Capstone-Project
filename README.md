@@ -11,13 +11,7 @@ Your first task is to collect the top programming skills that are most in demand
 
 Job postings / Training portals / Surveys
 
-Once you have collected enough data, you will begin analyzing the data and identify insights and trends that may include the following:
-
-What are the top programming languages in demand?
-
-What are the top database skills in demand?
-
-What are the popular IDEs?
+Once you have collected enough data, you will begin analyzing the data and identify insights and trends.
 
 You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.   
 
