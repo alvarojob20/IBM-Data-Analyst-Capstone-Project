@@ -7,9 +7,7 @@ help identify future skill requirements.
 As a Data Analyst, you will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this 
 year's report on emerging skills. 
 
-Your first task is to collect the top programming skills that are most in demand from various sources including:
-
-Job postings / Training portals / Surveys
+Your first task is to collect the top programming skills that are most in demand from various sources including: Job postings / Training portals / Surveys
 
 Once you have collected enough data, you will begin analyzing the data and identify insights and trends.
 
