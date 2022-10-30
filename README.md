@@ -22,3 +22,5 @@ Respondent classified by gender/
 Respondent count for countries/
 Respondent count by age/
 Respondent count by gender and classified by education level.
+
+The final dashboard can be found followin this link https://dataplatform.cloud.ibm.com/dashboards/380a93e5-f4a1-4e4d-9841-4966b65d676b/view/4c21e17d12b36af74bfcc0e407cf7a0f7d35250fbabb8456d6d77b490a327397f33b1590c87c1d5b89130561a5bf110acc
