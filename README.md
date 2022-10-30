@@ -4,17 +4,17 @@ In this assignment you will continue working with the Stack Overflow Developer S
 
 A Current Technology Usage tab containing:
 
-Top 10 Languages/
-Top 10 Databases
-Platforms
-Top 10 WebFrames
+Top 10 Languages.
+Top 10 Databases/
+Platforms/
+Top 10 WebFrames/
 
 A Future Technology Trends tab containing:
 
-Top 10 Languages desired for the next year
-Top 10 Databases desired for the next year
-Desired platforms for the next year
-Top 10 WebFrames desired for the next year
+Top 10 Languages desired for the next year/
+Top 10 Databases desired for the next year/
+Desired platforms for the next year/
+Top 10 WebFrames desired for the next year/
 
 A Demographics tab containing:
 
