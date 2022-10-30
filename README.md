@@ -1,4 +1,25 @@
 ## Final-Reports-Presentation
 For our final assignment we will create a presentation based on the analysis of our data conducted in previous modules. Our presentation will develop into a story
 of our analysis that should be compelling and easy to understand.
-[Stack Overflow Developer Survey 2019.pdf](https://github.com/alvarojob20/IBM-Data-Analyst-Capstone-Project/files/9896808/Stack.Overflow.Developer.Survey.2019.pdf)
+
+![Slide1](https://user-images.githubusercontent.com/102632925/198901336-43dc75cb-35fb-47e6-b842-3e683c08a16d.JPG)
+![Slide2](https://user-images.githubusercontent.com/102632925/198901337-bc3251da-9b00-4ba1-ba60-8b15b876a2b7.JPG)
+![Slide3](https://user-images.githubusercontent.com/102632925/198901339-98dea774-c1c6-47b1-a806-1c8f07bee98f.JPG)
+![Slide4](https://user-images.githubusercontent.com/102632925/198901342-c5a646b9-f880-4e90-afdf-fc098c4da89e.JPG)
+![Slide5](https://user-images.githubusercontent.com/102632925/198901343-16c62cea-1226-4881-95a9-3056e58a1489.JPG)
+![Slide6](https://user-images.githubusercontent.com/102632925/198901345-b13f9be8-50fe-4522-bb78-1b8a824304cc.JPG)
+![Slide7](https://user-images.githubusercontent.com/102632925/198901346-48487667-1a63-4143-ab33-8862c08243bb.JPG)
+![Slide8](https://user-images.githubusercontent.com/102632925/198901347-99b82e0a-b51c-4a8b-9f44-3085fd24c78c.JPG)
+![Slide9](https://user-images.githubusercontent.com/102632925/198901348-f75af468-f24b-4034-bb27-92aaf487a27e.JPG)
+![Slide10](https://user-images.githubusercontent.com/102632925/198901350-5ca2cbb4-a47d-4c10-bcf4-967269756a00.JPG)
+![Slide11](https://user-images.githubusercontent.com/102632925/198901352-ebc2f61d-7e8d-4c85-9cdb-36b69abca2d1.JPG)
+![Slide12](https://user-images.githubusercontent.com/102632925/198901353-20ab79da-b4bf-4335-bbff-d8c9dbacda33.JPG)
+![Slide13](https://user-images.githubusercontent.com/102632925/198901354-fe8cb09f-9345-4061-be90-8e766a7d274f.JPG)
+![Slide14](https://user-images.githubusercontent.com/102632925/198901356-6ec18b6d-4f9e-46fc-85d2-3534d1586e14.JPG)
+![Slide15](https://user-images.githubusercontent.com/102632925/198901357-c53cb4d9-e1fd-4b7f-b07b-176eb762d71e.JPG)
+![Slide16](https://user-images.githubusercontent.com/102632925/198901358-3922999a-97a7-4a32-a613-c46e471ef159.JPG)
+![Slide17](https://user-images.githubusercontent.com/102632925/198901359-a141bfca-7c24-4877-8565-19195d1de856.JPG)
+![Slide18](https://user-images.githubusercontent.com/102632925/198901360-f4217337-4702-4669-a9a9-b12ecc763674.JPG)
+![Slide19](https://user-images.githubusercontent.com/102632925/198901361-c3a74652-d97b-4a68-a343-3b954b2ebc78.JPG)
+![Slide20](https://user-images.githubusercontent.com/102632925/198901362-c04c252f-d1fd-4e4c-b143-2854b80611cb.JPG)
+![Slide21](https://user-images.githubusercontent.com/102632925/198901334-2183bd28-9972-4e76-b3c7-b364b97bbc12.JPG)
